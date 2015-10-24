@@ -1,7 +1,6 @@
 
 # _database.py
 
-from sqlalchemy import Column
 import sys
 import os
 
